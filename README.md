@@ -73,7 +73,7 @@ print(f"Probability of Placement: {placement_prob[0][1]:.2f}")
 ```
 
 ## Output:
-![image](http://github.com/VGSAIRAIMA/SGD-Classifier/blob/main/Screenshot%202026-05-21%20203410.png)
+![image](https://github.com/VGSAIRAIMA/SGD-Classifier/blob/main/Screenshot%202026-05-21%20203410.png)
 
 
 ## Result:
