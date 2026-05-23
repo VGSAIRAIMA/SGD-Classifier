@@ -18,12 +18,8 @@ Program to implement the prediction of iris species using SGD Classifier.
 Developed by: V G SAIRAIMA
 RegisterNumber:  212225040359
 */
-/*
-Program to implement the prediction of iris species using SGD Classifier.
-Developed by: R . Nithish Aaditiyaa
-RegisterNumber:  25011876[ 212225040287 ]
-*/
-
+```
+```
 import pandas as pd
 
 from sklearn.datasets import load_iris
@@ -57,7 +53,7 @@ print(cm)
 ```
 
 ## Output:
-![image](https://github.com/VGSAIRAIMA/SGD-Classifier/blob/main/Screenshot%202026-05-21%20203410.png)
+![image](https://github.com/VGSAIRAIMA/SGD-Classifier/blob/main/Screenshot%202026-05-23%20073831.png)
 
 
 ## Result:
